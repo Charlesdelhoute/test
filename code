@@ -1,0 +1,6 @@
+def decouper_phrase(a):
+    return a.split()
+
+a=input("chiffre")
+mots=decouper_phrase(a)
+print(mots)
